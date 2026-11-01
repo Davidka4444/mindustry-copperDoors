@@ -3,7 +3,7 @@
     "displayName": "Copper doors",
     "author": "Davidka4444",
     "description": "Replaces the [gray]gray[] color of the doors with [orange]copper[], so they better fit the style of Serpulo.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "hidden": true,
     "minGameVersion": "136",
     "dependencies": []
